@@ -1,0 +1,44 @@
+.nav1{
+    position: relative ;
+}
+
+
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #9C6644;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+
+}
+
+
+li :hover {
+    background-color: #7F5539;
+}
+.jaj:hover{
+    background-color: #7F5539
+}
+
+img.jaj{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: auto;
+    height: 100%;
+}
